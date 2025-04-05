@@ -1,4 +1,5 @@
 export default {
+    ignoreDeadLinks: true,
     title: 'DevHacks',
     description: 'Tutorials and Git Cheatsheets',
   
