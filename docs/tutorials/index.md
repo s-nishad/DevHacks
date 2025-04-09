@@ -4,9 +4,11 @@ Welcome to the tutorials section. Here you'll find a collection of guides to hel
 
 ## Available Tutorials
 
-- [Getting Started](./getting-started.md)
+<!-- - [Getting Started](./getting-started.md)
 - [Basic Usage](./basic-usage.md)
 - [Advanced Features](./advanced-features.md)
-- [Troubleshooting](./troubleshooting.md)
+- [Troubleshooting](./troubleshooting.md) -->
+
+coming soon
 
 Each tutorial provides step-by-step instructions and examples to help you learn effectively.
